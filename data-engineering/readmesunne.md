@@ -1,0 +1,1 @@
+les files des tables sont dans le fichier, pis le ipynb c'est la solution
